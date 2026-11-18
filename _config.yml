@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: My understanding of causal abstraction papers # the main title
+title: Nabila's take on papers # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Exploring AI, ML, and Causality # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   I am trying to deepen my understanding about causal abstraction, which is why I am reading papers and will try to write their findings in my own language for my future self.
